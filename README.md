@@ -92,7 +92,7 @@ Ready to launch the AI Sales Forecasting Dashboard on your machine? Follow these
 ### 🔧 Setup
 
 ```bash
-git clone https://github.com/anshkumar2311/AI-Powered-Sales-Forecasting-Dashboard.git
+git clone https://github.com/Anshuu7781/AI_Powered_Sales_Forecasting_Dashboard.git
 cd AI-Powered-Sales-Forecasting-Dashboard
 pip install -r requirements.txt
 streamlit run app.py
@@ -127,3 +127,4 @@ If you like this project, please consider:
 🍴 **Forking** it for your own version  
 
 Let’s connect and grow together 🚀
+
