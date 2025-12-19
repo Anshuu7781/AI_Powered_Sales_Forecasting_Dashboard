@@ -5,12 +5,11 @@
 </p>
 <p align="center">
   
-![Landing Page Screenshot](https://github.com/anshkumar2311/AI-Powered-Sales-Forecasting-Dashboard/blob/main/Assets/Screenshot_20250728_163609.png)
+![Landing Page Screenshot](https://github.com/Anshuu7781/AI_Powered_Sales_Forecasting_Dashboard/blob/main/Assets/Screenshot_20250728_163609.png)
 </p>
 
 <p align="center">
-  <a href="https://aisalesforecasting.streamlit.app/">🌐 Live Demo</a> |
-  <a href="https://github.com/anshkumar2311/AI-Powered-Sales-Forecasting-Dashboard">🔗 GitHub</a> |
+  <a href="https://github.com/Anshuu7781/AI_Powered_Sales_Forecasting_Dashboard.git">🔗 GitHub</a> |
   <a href="www.linkedin.com/in/ansh-srivastava-a2a04a310/">👨‍💻 Author</a>
 </p>
 
@@ -62,16 +61,16 @@ We use [Facebook Prophet](https://facebook.github.io/prophet/) for time series f
 - Forecasts future sales
 - Visualized directly in the dashboard
   
-![](https://github.com/anshkumar2311/AI-Powered-Sales-Forecasting-Dashboard/blob/main/Assets/Screenshot_20250728_163658.png)
+![](https://github.com/Anshuu7781/AI_Powered_Sales_Forecasting_Dashboard/blob/main/Assets/Screenshot_20250728_163658.png)
 ---
 
 ## 📌 Visuals
-![](https://github.com/anshkumar2311/AI-Powered-Sales-Forecasting-Dashboard/blob/main/Assets/download%20(1).png)
+![](https://github.com/Anshuu7781/AI_Powered_Sales_Forecasting_Dashboard/blob/main/Assets/download%20(1).png)
  
-![](https://github.com/anshkumar2311/AI-Powered-Sales-Forecasting-Dashboard/blob/main/Assets/Screenshot_20250727_222450.png)
+![](https://github.com/Anshuu7781/AI_Powered_Sales_Forecasting_Dashboard/blob/main/Assets/Screenshot_20250727_222450.png)
 
-![](https://github.com/anshkumar2311/AI-Powered-Sales-Forecasting-Dashboard/blob/main/Assets/download%20(2).png)
-![](https://github.com/anshkumar2311/AI-Powered-Sales-Forecasting-Dashboard/blob/main/Assets/Screenshot_20250727_222926.png)
+![](https://github.com/Anshuu7781/AI_Powered_Sales_Forecasting_Dashboard/blob/main/Assets/download%20(2).png)
+![](https://github.com/Anshuu7781/AI_Powered_Sales_Forecasting_Dashboard/blob/main/Assets/Screenshot_20250727_222926.png)
 
 ---
 
@@ -128,4 +127,3 @@ If you like this project, please consider:
 🍴 **Forking** it for your own version  
 
 Let’s connect and grow together 🚀
-
